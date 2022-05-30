@@ -1,0 +1,39 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+/*! parsely-js-api - v1.6.0-dev.3 - 2020-05-06
+ * http://www.parsely.com/
+ * 2020 Parsely, Inc. */
+
+window.PARSELY=window.PARSELY||{},function(){var t=function(){return function(t){this!==window&&void 0!==this&&(this.msgs.length>=100&&(this.msgs=this.msgs.slice(0,100)),this.msgs.push(t))}};PARSELY.console={"msgs":[],"log":t(),"dir":t()}}(),function(){var t=PARSELY.console,e=document.getElementById("parsely-cfg");e?function(e,s,n){var o=s+(PARSELY.statichost||"cdn.parsely.com"),i="parsely-script-sst-"+Math.floor(99999999*Math.random()),c=document.getElementById(i),a=n.parentElement;(c=document.createElement("script")).id=i,c.async=!0;var l=o+"/keys/"+e+"/p.js";t.log("Loading site-specific bundle from "+l),c.src=l,a.appendChild(c),PARSELY.loaded=!0}(PARSELY.site||e.getAttribute("data-parsely-site"),document.location.protocol+"//",e):t.log("Parse.ly disabled because configuration root element missing: #parsely-cfg")}();
+
+}
+/*
+     FILE ARCHIVED ON 08:03:19 Mar 17, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:47:51 May 30, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.102
+  exclusion.robots.policy: 0.09
+  RedisCDXSource: 5.021
+  esindex: 0.009
+  LoadShardBlock: 258.462 (6)
+  PetaboxLoader3.datanode: 228.228 (7)
+  CDXLines.iter: 21.359 (3)
+  PetaboxLoader3.resolve: 71.172 (2)
+  load_resource: 64.413
+*/

@@ -1,0 +1,67 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * futura-pt:
+ *   - http://typekit.com/eulas/000000000000000000010091
+ *   - http://typekit.com/eulas/000000000000000000013365
+ * open-sans:
+ *   - http://typekit.com/eulas/000000000000000000011c34
+ *   - http://typekit.com/eulas/000000000000000000011c3b
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2017-07-19 17:01:43 UTC"}*/
+
+@import url("https://web.archive.org/web/20220317073141cs_/https://p.typekit.net/p.css?s=1&k=nnd5wkr&ht=tk&f=10881.10884.14541.14548&a=512880&app=typekit&e=css");
+
+@font-face {
+font-family:"futura-pt";
+src:url("https://web.archive.org/web/20220317073141im_/https://use.typekit.net/af/309dfe/000000000000000000010091/27/l?subset_id=2&fvd=n7&v=3") format("woff2"),url("https://web.archive.org/web/20220317073141im_/https://use.typekit.net/af/309dfe/000000000000000000010091/27/d?subset_id=2&fvd=n7&v=3") format("woff"),url("https://web.archive.org/web/20220317073141im_/https://use.typekit.net/af/309dfe/000000000000000000010091/27/a?subset_id=2&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"futura-pt";
+src:url("https://web.archive.org/web/20220317073141im_/https://use.typekit.net/af/9b05f3/000000000000000000013365/27/l?subset_id=2&fvd=n4&v=3") format("woff2"),url("https://web.archive.org/web/20220317073141im_/https://use.typekit.net/af/9b05f3/000000000000000000013365/27/d?subset_id=2&fvd=n4&v=3") format("woff"),url("https://web.archive.org/web/20220317073141im_/https://use.typekit.net/af/9b05f3/000000000000000000013365/27/a?subset_id=2&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"open-sans";
+src:url("https://web.archive.org/web/20220317073141im_/https://use.typekit.net/af/2553b3/000000000000000000011c34/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://web.archive.org/web/20220317073141im_/https://use.typekit.net/af/2553b3/000000000000000000011c34/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://web.archive.org/web/20220317073141im_/https://use.typekit.net/af/2553b3/000000000000000000011c34/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"open-sans";
+src:url("https://web.archive.org/web/20220317073141im_/https://use.typekit.net/af/827015/000000000000000000011c3b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://web.archive.org/web/20220317073141im_/https://use.typekit.net/af/827015/000000000000000000011c3b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://web.archive.org/web/20220317073141im_/https://use.typekit.net/af/827015/000000000000000000011c3b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-futura-pt { font-family: "futura-pt",sans-serif; }
+.tk-open-sans { font-family: "open-sans",sans-serif; }
+
+/*
+     FILE ARCHIVED ON 07:31:41 Mar 17, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:47:31 May 30, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 344.602
+  exclusion.robots: 0.101
+  exclusion.robots.policy: 0.093
+  RedisCDXSource: 0.619
+  esindex: 0.008
+  LoadShardBlock: 89.724 (3)
+  PetaboxLoader3.datanode: 853.929 (4)
+  CDXLines.iter: 26.018 (3)
+  load_resource: 840.859
+  PetaboxLoader3.resolve: 51.666
+*/
